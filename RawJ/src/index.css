@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'FUD Grotesk';
+  src: url('./assets/Ilya Bazhanov - FUD Grotesk Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FUD Grotesk';
+  src: url('./assets/Ilya Bazhanov - FUD Grotesk Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FUD Grotesk';
+  src: url('./assets/Ilya Bazhanov - FUD Grotesk Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FUD Grotesk';
+  src: url('./assets/Ilya Bazhanov - FUD Grotesk Semi Bold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FUD Grotesk';
+  src: url('./assets/Ilya Bazhanov - FUD Grotesk Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Zefani Stencil';
+  src: url('./assets/fonts/audreyfont/ZefaniStencil-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Audrey';
+  src: url('./assets/audreyfont/Audrey-Normal.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Audrey';
+  src: url('./assets/audreyfont/Audrey-NormalOblique.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Audrey';
+  src: url('./assets/audreyfont/Audrey-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Audrey';
+  src: url('./assets/audreyfont/Audrey-MediumOblique.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Audrey';
+  src: url('./assets/audreyfont/Audrey-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Audrey';
+  src: url('./assets/audreyfont/Audrey-BoldOblique.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+* {
+  box-sizing: border-box;
+
+/* }
+html, body, #root {
+  /* overflow-x: hidden; */
+} */
+body{ 
+   /* background-image: url("../images/bgi-gradient.png"); */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;}

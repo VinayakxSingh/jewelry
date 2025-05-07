@@ -1,0 +1,40 @@
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  padding: 2rem;
+  background-color: rgb(216,216,214);
+  position: relative;
+  /* overflow: hidden; */
+  margin-top: 2rem;
+  width: 100%;
+   box-sizing: border-box;/*
+  background-image: url("../images/bgi-gradient.png"); */
+}
+
+.Hero-text{
+  /* background-image: url("../images/img2.JPG"); */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 2rem;
+  font-family: FUD Grotesk;
+  font-weight: 800;
+  color: #000000;
+  font-size: 6rem;
+  flex: 1;
+  letter-spacing: 1px;
+  line-height: 0.7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  box-sizing: border-box;
+  width: 80%;
+  height: 80%;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 2rem;
+  /* overflow: visible; */
+}
