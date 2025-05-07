@@ -34,10 +34,13 @@
   }
   
   .excard {
-    background: #fff;
+    background-image: url("../images/gradienthero.png") ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     border: 3px solid black;
     box-shadow: 8px 8px 0 black;
-    padding: 1rem;
+    /* padding: 1rem; */
     text-align: center;
     width: 300px;
     transition: transform 0.2s ease;
